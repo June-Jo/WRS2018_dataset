@@ -26,5 +26,5 @@ The dataset have 2 datasets. One is composed of real images and the other is com
 Annotaion style follows the annotation style of YOLO. Therefore, you can use it directly for training YOLO.
 
 Dataset link: https://drive.google.com/file/d/1Tq9hKbqKrnTmpaMFzO3Ewt2Hocz8JT75/view?usp=sharing
-This dataset is published under the LGPL license.
 
+This dataset is published under the LGPL license.
