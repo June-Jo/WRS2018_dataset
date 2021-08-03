@@ -4,7 +4,7 @@ YOLO dataset for WRS 2018 (world robot summit - partner robot challenge in real 
 
 We participated in WRS 2018 and we used YOLO to recognize target objects.
 This dataset is used there and used for training the YOLO v3.
-The objects can be shown here.
+The objects can be shown [here](https://github.com/wrs-prc-realspace/WRS2018Tokyo/blob/master/known_objects.md).
 The structure of each dataset is as follows.
 
 ```
