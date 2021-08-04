@@ -22,7 +22,7 @@ The structure of each dataset is as follows.
    |---------- xxxxx.txt
 ```
 
-The dataset have 2 datasets. One is composed of real images and the other is composed of synthesize images.
+The dataset have 2 sets of dataset. One is composed of real images and the other is composed of synthesize images.
 Annotaion style follows the annotation style of YOLO. Therefore, you can use it directly for training YOLO.
 
 Dataset link: https://drive.google.com/file/d/1Tq9hKbqKrnTmpaMFzO3Ewt2Hocz8JT75/view?usp=sharing
